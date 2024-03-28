@@ -1,7 +1,5 @@
 <h3 align="center">I'm Pranav Srinivasan, a solutions builder and use-case identifier from Namma Bengaluru.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knpranav&label=Profile%20views&color=0e75b6&style=flat" alt="knpranav" /> </p>
-
 - 🌱 I’m currently learning **Data Science and ML wrt Computer Vision Models**
 
 
