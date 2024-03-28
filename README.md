@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knpranav&label=Profile%20views&color=0e75b6&style=flat" alt="knpranav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knpranav" alt="knpranav" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science and ML wrt Computer Vision Models**
+
+- 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
 - 💬 Ask me about **Computer Vision, Web Dev, OOP, OOMD, Software Design Patterns, Refactoring, Debugging and Jugaad.**
 
